@@ -1,7 +1,7 @@
 
 
 
-[//]: # (![MasterHead](https://learntocodewith.me/wp-content/uploads/2021/09/mern-1024x536.png) 
+[//]: #(![MasterHead](https://learntocodewith.me/wp-content/uploads/2021/09/mern-1024x536.png)
 
 <h1 align="center">Hi 👋, I'm Lobsang Norbu</h1> 
 <h3 align="center">A frontend developer</h3> 
