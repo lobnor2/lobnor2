@@ -4,8 +4,7 @@
 [//]: #(![MasterHead](https://learntocodewith.me/wp-content/uploads/2021/09/mern-1024x536.png)
 
 <h1 align="center">Hi 👋, I'm Lobsang Norbu</h1> 
-<h3 align="center">A frontend developer</h3> 
-<h3 align="center">You can reach me here:lnorbu151@gmail.com</h3>
+<h3 align="center">You can reach me here : lnorbu151@gmail.com</h3>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lobnor_2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lobnor) 
