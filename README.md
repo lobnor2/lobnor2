@@ -6,8 +6,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: Js / React / Next / HTML / CSS
 
 - 🔭 I’m currently working on Crypto Tibet, Tibet Film
-- 🌱 I’m currently learning Next js,  
-- 💬 Ask me about Js, React 
+- 🌱 I’m currently learning Next js, Solidity, MERN
+- 💬 Ask me about Js, React, Frontend
 - 📫 How to reach me: lnorbu151@gmail.com 
 
 
