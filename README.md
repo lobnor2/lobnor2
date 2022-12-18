@@ -5,7 +5,7 @@ I make projects for fun.
 
 Skills: Js / React / Next / HTML / CSS
 
-- 🔭 I’m currently working on Crypto Tibet, Tibet Film
+- 🔭 I’m currently working on Portfolio and Modern Real Estate App
 - 🌱 I’m currently learning Next js, Solidity, MERN
 - 💬 Ask me about Js, React, Frontend
 - 📫 How to reach me: lnorbu151@gmail.com 
