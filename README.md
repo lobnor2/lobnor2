@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Lobsang Norbu
+## Hi there 👋, My name is Lobsang Norbu
 #### I am FrontEnd Developer
 
 I make projects for fun.
