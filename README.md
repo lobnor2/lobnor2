@@ -5,7 +5,7 @@ I make projects for fun.
 
 Skills: Js / React / Next 
 
-- 🔭 I’m currently working on Portfolio and Fitness Gym App
+- 🔭 I’m currently working on Portfolio and ChatApplication
 - 🌱 I’m currently learning Nextjs, Solidity, MERN, C#
 - 💬 Ask me about Js, React, Frontend
 - 📫 How to reach me: lnorbu151@gmail.com 
