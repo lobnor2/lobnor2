@@ -5,9 +5,9 @@ I make projects for fun.
 
 Skills: Js / React / Next 
 
-- 🔭 I’m currently working on Portfolio and ChatGPT Clone
+- 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Nextjs, Solidity, MERN, C#
-- 💬 Ask me about Js, React, Frontend
+- 💬 Ask me about Js, React, Frontend, .Net
 - 📫 How to reach me: lnorbu151@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/lobnor2)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/lobnor_2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](lob-nor.com)  
