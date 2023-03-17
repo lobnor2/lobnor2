@@ -3,7 +3,7 @@
 
 I make projects for fun.
 
-Skills: Js / React / Next 
+Skills: Js / React / Next / DotNet
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Nextjs, Solidity, MERN, C#
