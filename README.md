@@ -1,7 +1,5 @@
 ## Hi there 👋, My name is Lobsang Norbu
-#### I am FrontEnd Developer
-
-I make projects for fun.
+#### I am hobbyist coder.
 
 Skills: Js / React / Next / DotNet
 
