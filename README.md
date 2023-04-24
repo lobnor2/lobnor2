@@ -5,7 +5,7 @@ Skills: Js / React / Next / DotNet
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Nextjs, Solidity, MERN, C#
-- 💬 Ask me about Js, React, Frontend, .Net
+- 💬 Ask me about Js, React, Frontend
 - 📫 How to reach me: lnorbu151@gmail.com 
 
 
