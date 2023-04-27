@@ -65,3 +65,16 @@
   <img src="https://streak-stats.demolab.com?user=lobnor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="229" alt="streak graph"  />
 </div>
 
+###
+<h3 align="left">Me Before and After Updating Github Profile:</h3>
+
+###
+
+<div align="center">
+  <img height="300" width="250" src="https://i.ytimg.com/vi/w5DBawueg-0/frame0.jpg"  />
+    <img height="300" width="250" src="https://media.tenor.com/arqlNu8gyJYAAAAC/cat-cat-jumping.gif"  />
+
+</div>
+
+###
+
