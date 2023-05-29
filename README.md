@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I am a hobbyist developer.<br><br>    🔭 I’m currently working on Portfolio<br>    🌱 I’m currently learning Nextjs, Solidity, MERN<br>    💬 Ask me about Js, React, Frontend<br>    📫 How to reach me: lnorbu151@gmail.com<br>⚡ In my free time I love to watch YouTube</p>
+<p align="left">I am a hobbyist developer.<br><br>    🔭 I’m currently working on Portfolio<br>    🌱 I’m currently learning Nextjs, Solidity, MERN<br>    💬 Ask me about Js, React, Frontend<br>    📫 How to reach me: lnorbu151@gmail.com<br></p>
 
 ###
 
