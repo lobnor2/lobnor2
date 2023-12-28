@@ -58,26 +58,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lobnor2" alt="lobnor2" /></a> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lobnor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false&order=1" height="243" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=lobnor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="229" alt="streak graph"  />
-</div>
+
 
 ###
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lobnor2&show_icons=true&locale=en" alt="lobnor2" /></p>
 
-<br/>
-<br/>
-<h3 align="left">❄️Me Before and After Updating Github Profile : 👇</h3>
-
-###
-
-<div align="center">
-  <img height="300" width="250" src="https://i.ytimg.com/vi/w5DBawueg-0/frame0.jpg"  />
-    <img height="300" width="250" src="https://media.tenor.com/arqlNu8gyJYAAAAC/cat-cat-jumping.gif"  />
-
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lobnor2&" alt="lobnor2" /></p>
 
