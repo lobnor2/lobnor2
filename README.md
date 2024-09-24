@@ -46,18 +46,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="41" width="59" alt="typescript logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lobnor2" alt="lobnor2" /></a> </p>
-
-
-
-###
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lobnor2&show_icons=true&locale=en" alt="lobnor2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lobnor2&" alt="lobnor2" /></p>
 
