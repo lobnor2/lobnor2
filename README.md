@@ -17,7 +17,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p>Frontend developer with a passion for crafting beautiful and functional user interfaces. Proficient in developing web applications using JavaScript, React⚛️</p>
+<p>Passionate Frontend Developer with experience in building responsive and dynamic web applications using modern technologies. Adapt at creating user-centric designs, optimizing performance, and collaborating with cross-functional teams to deliver high-quality digital experiences.</p>
 
 ###
 
