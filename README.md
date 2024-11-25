@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋, My name is Lobsang Norbu</h1>
+<h1 align="center">Hi👋 I am Lobsang Norbu</h1>
 
 ###
 
